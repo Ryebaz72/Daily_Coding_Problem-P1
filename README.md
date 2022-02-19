@@ -1,4 +1,4 @@
-# Daily_Coding_Problem_Problem1
+# Daily_Coding_Problem-P1
 
 ## My solution to the Daily Coding Problem - Problem 1
 
